@@ -1,5 +1,7 @@
 <h1>Ciclo de vida da Activity (N3) 🖥️</h1>
 
+<p>Equipe do Projeto: Amilton Douglas, João Victor Melo, joão Victor Brandão.<p>
+    
 <p>O ciclo de vida de uma Activity no Android consiste em uma serie de etapas da criação a finalização, Essas etapas são controladas por diversos callbacks, que possibilitam aos programadores personalizarem o modo como a Activity se comporta diante das alterações no estado da aplicação.
 São elas:</p>
 
